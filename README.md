@@ -30,6 +30,6 @@ Download from this. (At first, you only need to download UI Calculator)
  And download model.
  | Version | Download |
  |-------------|-------------|
- | v1.0.0　| |
+ | v1.0.0　| [Model](https://drive.google.com/file/d/11TZYpJFyQR9kAcRAZZnw08LJLg-VceQs/view?usp=share_link) |
 
 Unzip this file and rename folder, and move python file to this.
