@@ -27,9 +27,9 @@ Download from this. (At first, you only need to download UI Calculator)
  | Text2Vec Trainer v1.0.0 Stable| [Trainer](https://github.com/Shirym-min/WordsCalculator/releases/download/Stable/Trainer)|[source code]()|
  | Command Calculator v1.0.0 Stable | [WordCalculatorCommand](https://github.com/Shirym-min/WordsCalculator/releases/download/Stable/WordCalculatorCommand) | [source code](https://github.com/Shirym-min/WordsCalculator/blob/main/code/wordcalc.py)|
 
- And download model.
- | Version | Download |
- |-------------|-------------|
- | v1.0.0　| [Model](https://drive.google.com/file/d/11TZYpJFyQR9kAcRAZZnw08LJLg-VceQs/view?usp=share_link) |
+ And download model. (If you want to more train for model, also download .text8file)
+ | Version | Model Download | .text8file Download |
+ |-------------|-------------|----------------|
+ | v1.0.0　| [Model](https://drive.google.com/file/d/11TZYpJFyQR9kAcRAZZnw08LJLg-VceQs/view?usp=share_link) | [Textdata]()|
 
 Unzip this file and rename folder, and move python file to this.
