@@ -30,6 +30,6 @@ Download from this. (At first, you only need to download UI Calculator)
  And download model. (If you want to more train for model, also download .text8file)
  | Version | Model Download | .text8file Download |
  |-------------|-------------|----------------|
- | v1.0.0　| [Model](https://drive.google.com/file/d/11TZYpJFyQR9kAcRAZZnw08LJLg-VceQs/view?usp=share_link) | [Textdata]()|
+ | v1.0.0　| [Model](https://github.com/Shirym-min/WordsCalculator/releases/download/Stable/Models) | [Textdata]()|
 
 Unzip this file and rename folder, and move python file to this.
