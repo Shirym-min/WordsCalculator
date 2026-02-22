@@ -1,5 +1,6 @@
 # WordsCalculator
 Japanese text can be converted into vectors, enabling operations such as addition and subtraction between words.
+日本語はこちら→[README_JA.md](https://github.com/Shirym-min/WordsCalculator/blob/main/README_JA.md)
 # Information
 - TrainingData: Wikipedia (https://dumps.wikimedia.org/jawiki/20260201/)
 - Library: gensim, MeCab
